@@ -1,2 +1,2 @@
-# Airbnb-Europe-BI-Project
+# Airbnb Europe Data Warehouse & Market Intelligence
 Developed complete Airbnb Europe analytics solution featuring web scraping ,data cleaning, EDA, ETL pipelines, and Bronze-Silver-Gold data warehouse architecture Built interactive Power BI dashboard with advanced DAX measures to uncover insights on pricing, guest satisfaction, safety, tourism, amenities, and travel recommendations across  listings.
